@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
 * [Vision/Mission](vision-mission.md)
-* [What we work on](what-we-work-on.md)
+* What we work on
   * [Products](products.md)
   * [Services](services.md)
-  * [Programs](programs.md)
-* [How we work](how-we-work.md)
+* How we work
+  * [Planning](planning.md)
   * [FYs, Quarters, Cycles, Sprints](fys-quarters-cycles-sprints.md)
   * [Calendar](calendar.md)
   * [Recurring meetings](recurring-meetings.md)
