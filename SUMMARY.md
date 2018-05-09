@@ -1,7 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [Vision/Mission](vision-mission.md)
+* About us
+  * [Vision/Mission](vision-mission.md)
+  * [Where we fit](where-we-fit.md)
 * What we work on
   * [Products](products.md)
   * [Services](services.md)
