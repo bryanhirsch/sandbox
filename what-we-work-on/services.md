@@ -12,10 +12,12 @@
 * Cross domain analytics
 * Mayfower
 
-### Priority areas for FY19
+## Priority areas for FY19
 
 User journeys with opportunities for improvement in...
+
 * Search
 * Analytics
 * Mayflower
 * APIs
+
