@@ -15,6 +15,7 @@
   * [Template slide decks](how-we-work/template-slide-decks.md)
   * [Default to open](how-we-work/default-to-open.md)
 * [Onboarding](onboarding/README.md)
+  * [Tips](onboarding/tips.md)
   * [Data Scientists](onboarding/data-scientists.md)
   * [Designers](onboarding/designers.md)
   * [Developers](onboarding/developers.md)
